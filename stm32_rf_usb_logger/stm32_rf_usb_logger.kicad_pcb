@@ -2506,6 +2506,10 @@
     )
   )
 
+  (gr_line (start 187.14 93.17) (end 188.28 94.31)
+    (stroke (width 0.2) (type default)) (layer "F.Cu") (tstamp 78691fbe-5d10-44a4-a065-26c08b0a1b10))
+  (gr_line (start 183.74 93.17) (end 187.14 93.17)
+    (stroke (width 0.2) (type default)) (layer "F.Cu") (tstamp 7c49d61d-b4f1-42c6-b059-143e21d8a2c4))
   (gr_line (start 149.994836 95.214984) (end 149.994836 80.94)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp 345e70ff-bf11-4832-80f0-cde82efef1e7))
   (gr_arc (start 151.105016 96.325164) (mid 150.32 96) (end 149.994836 95.214984)
